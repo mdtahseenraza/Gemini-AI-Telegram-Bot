@@ -5,7 +5,6 @@ from telethon import TelegramClient, events
 
 import asyncio # Provides infrastructure for writing asynchronous code using coroutines.
 
-# Imports for handling images and bytes
 from io import BytesIO
 from PIL import Image
 
