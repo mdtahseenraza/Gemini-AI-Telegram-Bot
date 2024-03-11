@@ -1,4 +1,3 @@
-# Importing Libraries
 import telethon # Library to interact with Telegram's API as a user or through a bot account 
 from telethon.tl.custom import Button
 from telethon import TelegramClient, events
