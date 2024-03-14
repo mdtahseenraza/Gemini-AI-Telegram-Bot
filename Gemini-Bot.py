@@ -9,7 +9,6 @@ from PIL import Image
 
 import config # Custom file containing configuration settings for the bot.
 
-# Import necessary modules from the vertexai library
 import vertexai
 from vertexai.generative_models._generative_models import HarmCategory, HarmBlockThreshold
 from vertexai.preview.generative_models import (
